@@ -1,0 +1,136 @@
+country_code_to_name:
+  US: 美国
+  IT: 意大利
+  SP: 西班牙
+  FR: 法国
+  DE: 德国
+  UK: 英国
+  JP: 日本
+  CA: 加拿大
+  MX: 墨西哥
+  AU: 澳大利亚
+  IN: 印度
+  AE: 阿联酋
+  SG: 新加坡
+  NL: 荷兰
+  BR: 巴西
+  SA: 沙特
+  SE: 瑞典
+  PL: 波兰
+  TR: 土耳其
+  ZH: 中国
+  VN: 越南
+  UY: 乌拉圭
+  TH: 泰国
+  RU: 俄罗斯
+  PH: 菲律宾
+  PE: 秘鲁
+  MY: 马来西亚
+  ID: 印度尼西亚
+  GB: 英国
+  ES: 西班牙
+  CZ: 捷克
+  CS: 捷克
+  CN: 中国
+  CL: 智利
+  BE: 比利时
+  AR: 阿根廷
+  AQ: 南极
+  CO: 哥伦比亚
+  DB: 迪拜
+  PO: 波兰
+  ST: 沙特
+  AT: 奥地利
+  IE: 爱尔兰
+  BG: 保加利亚
+  SK: 斯洛伐克
+  RO: 罗马尼亚
+  CY: 塞浦路斯
+  HU: 匈牙利
+  "NO": 挪威
+  PT: 葡萄牙
+  CH: 瑞士
+  SI: 斯洛文尼亚
+  LU: 卢森堡
+  HR: 克罗地亚
+  GR: 希腊
+  MT: 马耳他
+  FI: 芬兰
+  LV: 拉脱维亚
+  DK: 丹麦
+  NZ: 新西兰
+  EE: 爱沙尼亚
+  GG: 大件云仓(美国,欧洲)
+## 新西兰是澳洲
+
+sites_to_names:
+  - code: it
+    name: 意大利
+  - code: es
+    name: 西班牙
+  - code: gb
+    name: 英国
+  - code: id
+    name: 印度尼西亚
+  - code: ar
+    name: 阿根廷
+  - code: co
+    name: 哥伦比亚
+  - code: west
+    name: 美西
+  - code: ph
+    name: 菲律宾
+  - code: th
+    name: 泰国
+  - code: my
+    name: 马来西亚
+  - code: br
+    name: 巴西
+  - code: RU
+    name: 俄罗斯
+  - code: pl
+    name: 波兰
+  - code: vn
+    name: 越南
+  - code: east
+    name: 美东
+  - code: ca
+    name: 加拿大
+  - code: cl
+    name: 智利
+  - code: jp
+    name: 日本
+  - code: pe
+    name: 秘鲁
+  - code: sa
+    name: 沙特
+  - code: mx
+    name: 墨西哥
+  - code: uy
+    name: 乌拉圭
+  - code: ae
+    name: 阿联酋
+  - code: mel
+    name: 墨尔本
+  - code: south
+    name: 美南
+  - code: fr
+    name: 法国
+  - code: de
+    name: 德国
+  - code: sg
+    name: 新加坡
+  - code: syd
+    name: 悉尼
+
+freight_forwarding:
+  美国: 谷仓
+  英国: 谷仓
+  法国: 谷仓
+  德国: 谷仓
+  澳洲: 谷仓
+  加拿大: 谷仓
+  俄罗斯: 三迪
+  泰国: 菜鸟
+  马来西亚: 菜鸟
+  菲律宾: 菜鸟
